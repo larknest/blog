@@ -2,7 +2,7 @@
 title: iOS CocoaPods 私有库 steps and tips
 date: 2017-01-18 17:28:33
 tags:
-categories: iOS
+categories: ios
 ---
 # iOS CocoaPods 私有库 steps and tips
 这篇文章记录了下cocoapods私有库的一些steps和tips.

@@ -2,7 +2,7 @@
 title: iOS 精益编程
 date: 2017-01-18 17:28:33
 tags:
-categories: iOS
+categories: ios
 ---
 # 开场
 今天, 我们将从一个小功能开始, 先去不假思索的实现它
